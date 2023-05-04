@@ -1,3 +1,3 @@
 # Patients-monitoring
 
-https://tangerine-stroopwafel-7051de.netlify.app/
+https://patients-monitoring-vet.netlify.app/
